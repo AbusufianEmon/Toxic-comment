@@ -19,6 +19,10 @@ Dataset
 
 Each comment may have one or more labels.
 
+
+
+**** Dataset and Model Downlad link are given in dataset&model_download_link.txt. Must be download those files. Otherwise not work
+
 -----------------------------------------------------
 Dependencies
 -----------------------------------------------------
